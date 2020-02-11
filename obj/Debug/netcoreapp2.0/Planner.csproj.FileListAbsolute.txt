@@ -1,0 +1,11 @@
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Planner.deps.json
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Planner.runtimeconfig.json
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Planner.runtimeconfig.dev.json
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Planner.dll
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Planner.pdb
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Planner.csprojAssemblyReference.cache
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Planner.csproj.CoreCompileInputs.cache
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Planner.AssemblyInfoInputs.cache
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Planner.AssemblyInfo.cs
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Planner.dll
+c:\users\flame\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Planner.pdb
